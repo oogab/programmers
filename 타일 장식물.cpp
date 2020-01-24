@@ -1,5 +1,3 @@
-#include <string>
-
 using namespace std;
 
 long long solution(int N) {
